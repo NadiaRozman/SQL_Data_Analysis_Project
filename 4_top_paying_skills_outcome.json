@@ -1,0 +1,710 @@
+[
+  {
+    "skill": "svn",
+    "avg_salary": "400000.00"
+  },
+  {
+    "skill": "solidity",
+    "avg_salary": "179000.00"
+  },
+  {
+    "skill": "couchbase",
+    "avg_salary": "160515.00"
+  },
+  {
+    "skill": "datarobot",
+    "avg_salary": "155485.50"
+  },
+  {
+    "skill": "golang",
+    "avg_salary": "155000.00"
+  },
+  {
+    "skill": "mxnet",
+    "avg_salary": "149000.00"
+  },
+  {
+    "skill": "dplyr",
+    "avg_salary": "147633.33"
+  },
+  {
+    "skill": "vmware",
+    "avg_salary": "147500.00"
+  },
+  {
+    "skill": "terraform",
+    "avg_salary": "146733.83"
+  },
+  {
+    "skill": "twilio",
+    "avg_salary": "138500.00"
+  },
+  {
+    "skill": "gitlab",
+    "avg_salary": "134126.00"
+  },
+  {
+    "skill": "kafka",
+    "avg_salary": "129999.16"
+  },
+  {
+    "skill": "puppet",
+    "avg_salary": "129820.00"
+  },
+  {
+    "skill": "keras",
+    "avg_salary": "127013.33"
+  },
+  {
+    "skill": "pytorch",
+    "avg_salary": "125226.20"
+  },
+  {
+    "skill": "perl",
+    "avg_salary": "124685.75"
+  },
+  {
+    "skill": "ansible",
+    "avg_salary": "124370.00"
+  },
+  {
+    "skill": "hugging face",
+    "avg_salary": "123950.00"
+  },
+  {
+    "skill": "tensorflow",
+    "avg_salary": "120646.83"
+  },
+  {
+    "skill": "cassandra",
+    "avg_salary": "118406.68"
+  },
+  {
+    "skill": "notion",
+    "avg_salary": "118091.67"
+  },
+  {
+    "skill": "atlassian",
+    "avg_salary": "117965.60"
+  },
+  {
+    "skill": "bitbucket",
+    "avg_salary": "116711.75"
+  },
+  {
+    "skill": "airflow",
+    "avg_salary": "116387.26"
+  },
+  {
+    "skill": "scala",
+    "avg_salary": "115479.53"
+  },
+  {
+    "skill": "linux",
+    "avg_salary": "114883.20"
+  },
+  {
+    "skill": "confluence",
+    "avg_salary": "114153.12"
+  },
+  {
+    "skill": "pyspark",
+    "avg_salary": "114057.87"
+  },
+  {
+    "skill": "mongodb",
+    "avg_salary": "113607.71"
+  },
+  {
+    "skill": "aurora",
+    "avg_salary": "113393.90"
+  },
+  {
+    "skill": "cordova",
+    "avg_salary": "113269.50"
+  },
+  {
+    "skill": "gcp",
+    "avg_salary": "113065.48"
+  },
+  {
+    "skill": "spark",
+    "avg_salary": "113001.94"
+  },
+  {
+    "skill": "splunk",
+    "avg_salary": "112927.60"
+  },
+  {
+    "skill": "databricks",
+    "avg_salary": "112880.74"
+  },
+  {
+    "skill": "unify",
+    "avg_salary": "112317.44"
+  },
+  {
+    "skill": "git",
+    "avg_salary": "112249.64"
+  },
+  {
+    "skill": "dynamodb",
+    "avg_salary": "111840.00"
+  },
+  {
+    "skill": "snowflake",
+    "avg_salary": "111577.72"
+  },
+  {
+    "skill": "shell",
+    "avg_salary": "111496.45"
+  },
+  {
+    "skill": "electron",
+    "avg_salary": "111175.00"
+  },
+  {
+    "skill": "unix",
+    "avg_salary": "111123.32"
+  },
+  {
+    "skill": "hadoop",
+    "avg_salary": "110888.27"
+  },
+  {
+    "skill": "pandas",
+    "avg_salary": "110767.07"
+  },
+  {
+    "skill": "node.js",
+    "avg_salary": "110230.38"
+  },
+  {
+    "skill": "phoenix",
+    "avg_salary": "109259.09"
+  },
+  {
+    "skill": "php",
+    "avg_salary": "109051.51"
+  },
+  {
+    "skill": "neo4j",
+    "avg_salary": "108646.42"
+  },
+  {
+    "skill": "nosql",
+    "avg_salary": "108331.04"
+  },
+  {
+    "skill": "express",
+    "avg_salary": "108221.35"
+  },
+  {
+    "skill": "watson",
+    "avg_salary": "108103.00"
+  },
+  {
+    "skill": "redshift",
+    "avg_salary": "107968.80"
+  },
+  {
+    "skill": "jira",
+    "avg_salary": "107931.30"
+  },
+  {
+    "skill": "rust",
+    "avg_salary": "107925.00"
+  },
+  {
+    "skill": "elasticsearch",
+    "avg_salary": "107815.75"
+  },
+  {
+    "skill": "no-sql",
+    "avg_salary": "107405.33"
+  },
+  {
+    "skill": "numpy",
+    "avg_salary": "107397.56"
+  },
+  {
+    "skill": "db2",
+    "avg_salary": "107130.29"
+  },
+  {
+    "skill": "swift",
+    "avg_salary": "107100.00"
+  },
+  {
+    "skill": "redis",
+    "avg_salary": "107043.75"
+  },
+  {
+    "skill": "postgresql",
+    "avg_salary": "106852.94"
+  },
+  {
+    "skill": "plotly",
+    "avg_salary": "106602.86"
+  },
+  {
+    "skill": "aws",
+    "avg_salary": "106439.84"
+  },
+  {
+    "skill": "c++",
+    "avg_salary": "105695.51"
+  },
+  {
+    "skill": "alteryx",
+    "avg_salary": "105579.57"
+  },
+  {
+    "skill": "azure",
+    "avg_salary": "105399.62"
+  },
+  {
+    "skill": "gdpr",
+    "avg_salary": "105328.92"
+  },
+  {
+    "skill": "bigquery",
+    "avg_salary": "105237.60"
+  },
+  {
+    "skill": "bash",
+    "avg_salary": "105074.72"
+  },
+  {
+    "skill": "powershell",
+    "avg_salary": "105040.78"
+  },
+  {
+    "skill": "mongo",
+    "avg_salary": "104274.25"
+  },
+  {
+    "skill": "scikit-learn",
+    "avg_salary": "103932.15"
+  },
+  {
+    "skill": "looker",
+    "avg_salary": "103855.35"
+  },
+  {
+    "skill": "jupyter",
+    "avg_salary": "103522.46"
+  },
+  {
+    "skill": "ibm cloud",
+    "avg_salary": "103312.50"
+  },
+  {
+    "skill": "kubernetes",
+    "avg_salary": "103088.79"
+  },
+  {
+    "skill": "angular",
+    "avg_salary": "102103.25"
+  },
+  {
+    "skill": "flask",
+    "avg_salary": "101862.69"
+  },
+  {
+    "skill": "asp.net",
+    "avg_salary": "101666.67"
+  },
+  {
+    "skill": "sqlite",
+    "avg_salary": "101625.00"
+  },
+  {
+    "skill": "python",
+    "avg_salary": "101511.85"
+  },
+  {
+    "skill": "github",
+    "avg_salary": "101498.36"
+  },
+  {
+    "skill": "jenkins",
+    "avg_salary": "101418.62"
+  },
+  {
+    "skill": "mysql",
+    "avg_salary": "101381.40"
+  },
+  {
+    "skill": "visio",
+    "avg_salary": "101035.82"
+  },
+  {
+    "skill": "oracle",
+    "avg_salary": "100964.19"
+  },
+  {
+    "skill": "qlik",
+    "avg_salary": "100932.78"
+  },
+  {
+    "skill": "java",
+    "avg_salary": "100213.87"
+  },
+  {
+    "skill": "chainer",
+    "avg_salary": "100000.00"
+  },
+  {
+    "skill": "theano",
+    "avg_salary": "100000.00"
+  },
+  {
+    "skill": "matlab",
+    "avg_salary": "99908.55"
+  },
+  {
+    "skill": "unity",
+    "avg_salary": "99616.70"
+  },
+  {
+    "skill": "dax",
+    "avg_salary": "99548.74"
+  },
+  {
+    "skill": "ggplot2",
+    "avg_salary": "99415.75"
+  },
+  {
+    "skill": "matplotlib",
+    "avg_salary": "99307.10"
+  },
+  {
+    "skill": "docker",
+    "avg_salary": "99261.57"
+  },
+  {
+    "skill": "yarn",
+    "avg_salary": "99150.00"
+  },
+  {
+    "skill": "seaborn",
+    "avg_salary": "98747.83"
+  },
+  {
+    "skill": "c",
+    "avg_salary": "98714.56"
+  },
+  {
+    "skill": "r",
+    "avg_salary": "98707.80"
+  },
+  {
+    "skill": "django",
+    "avg_salary": "98543.69"
+  },
+  {
+    "skill": "flow",
+    "avg_salary": "98019.82"
+  },
+  {
+    "skill": "tableau",
+    "avg_salary": "97978.08"
+  },
+  {
+    "skill": "node",
+    "avg_salary": "97900.00"
+  },
+  {
+    "skill": "spring",
+    "avg_salary": "97453.61"
+  },
+  {
+    "skill": "go",
+    "avg_salary": "97266.97"
+  },
+  {
+    "skill": "c#",
+    "avg_salary": "97247.74"
+  },
+  {
+    "skill": "ssis",
+    "avg_salary": "97234.75"
+  },
+  {
+    "skill": "sql",
+    "avg_salary": "96435.33"
+  },
+  {
+    "skill": "sql server",
+    "avg_salary": "96191.42"
+  },
+  {
+    "skill": "mariadb",
+    "avg_salary": "96000.00"
+  },
+  {
+    "skill": "jquery",
+    "avg_salary": "95772.00"
+  },
+  {
+    "skill": "t-sql",
+    "avg_salary": "95722.65"
+  },
+  {
+    "skill": "microstrategy",
+    "avg_salary": "94485.56"
+  },
+  {
+    "skill": "vba",
+    "avg_salary": "93844.97"
+  },
+  {
+    "skill": "sas",
+    "avg_salary": "93707.36"
+  },
+  {
+    "skill": "webex",
+    "avg_salary": "92500.00"
+  },
+  {
+    "skill": "sap",
+    "avg_salary": "92446.21"
+  },
+  {
+    "skill": "power bi",
+    "avg_salary": "92323.60"
+  },
+  {
+    "skill": "pascal",
+    "avg_salary": "92000.00"
+  },
+  {
+    "skill": "javascript",
+    "avg_salary": "91805.12"
+  },
+  {
+    "skill": "ssrs",
+    "avg_salary": "91536.86"
+  },
+  {
+    "skill": "cognos",
+    "avg_salary": "90407.22"
+  },
+  {
+    "skill": "airtable",
+    "avg_salary": "90006.25"
+  },
+  {
+    "skill": "clickup",
+    "avg_salary": "90000.00"
+  },
+  {
+    "skill": "zoom",
+    "avg_salary": "89791.42"
+  },
+  {
+    "skill": "typescript",
+    "avg_salary": "89323.10"
+  },
+  {
+    "skill": "unreal",
+    "avg_salary": "89112.50"
+  },
+  {
+    "skill": "sharepoint",
+    "avg_salary": "89027.16"
+  },
+  {
+    "skill": "react",
+    "avg_salary": "88567.19"
+  },
+  {
+    "skill": "drupal",
+    "avg_salary": "88328.20"
+  },
+  {
+    "skill": "powerpoint",
+    "avg_salary": "88315.61"
+  },
+  {
+    "skill": "firebase",
+    "avg_salary": "87500.00"
+  },
+  {
+    "skill": "crystal",
+    "avg_salary": "87327.33"
+  },
+  {
+    "skill": "visual basic",
+    "avg_salary": "86972.33"
+  },
+  {
+    "skill": "arch",
+    "avg_salary": "86835.00"
+  },
+  {
+    "skill": "windows",
+    "avg_salary": "86512.83"
+  },
+  {
+    "skill": "excel",
+    "avg_salary": "86418.90"
+  },
+  {
+    "skill": "symphony",
+    "avg_salary": "86266.67"
+  },
+  {
+    "skill": "microsoft teams",
+    "avg_salary": "85570.03"
+  },
+  {
+    "skill": "assembly",
+    "avg_salary": "85389.70"
+  },
+  {
+    "skill": "asana",
+    "avg_salary": "85338.70"
+  },
+  {
+    "skill": "css",
+    "avg_salary": "85317.07"
+  },
+  {
+    "skill": "spss",
+    "avg_salary": "85292.80"
+  },
+  {
+    "skill": "ms access",
+    "avg_salary": "84872.71"
+  },
+  {
+    "skill": "cobol",
+    "avg_salary": "84744.75"
+  },
+  {
+    "skill": "html",
+    "avg_salary": "84382.71"
+  },
+  {
+    "skill": "sheets",
+    "avg_salary": "84129.61"
+  },
+  {
+    "skill": "terminal",
+    "avg_salary": "83567.30"
+  },
+  {
+    "skill": "slack",
+    "avg_salary": "83441.95"
+  },
+  {
+    "skill": "word",
+    "avg_salary": "82940.76"
+  },
+  {
+    "skill": "chef",
+    "avg_salary": "82825.00"
+  },
+  {
+    "skill": "selenium",
+    "avg_salary": "82500.00"
+  },
+  {
+    "skill": "fortran",
+    "avg_salary": "82500.00"
+  },
+  {
+    "skill": "ruby",
+    "avg_salary": "80960.17"
+  },
+  {
+    "skill": "outlook",
+    "avg_salary": "80680.33"
+  },
+  {
+    "skill": "monday.com",
+    "avg_salary": "79000.00"
+  },
+  {
+    "skill": "spreadsheet",
+    "avg_salary": "78465.89"
+  },
+  {
+    "skill": "planner",
+    "avg_salary": "77039.12"
+  },
+  {
+    "skill": "workfront",
+    "avg_salary": "76820.04"
+  },
+  {
+    "skill": "wrike",
+    "avg_salary": "75000.00"
+  },
+  {
+    "skill": "julia",
+    "avg_salary": "73680.00"
+  },
+  {
+    "skill": "npm",
+    "avg_salary": "73418.75"
+  },
+  {
+    "skill": "dart",
+    "avg_salary": "72673.83"
+  },
+  {
+    "skill": "erlang",
+    "avg_salary": "72500.00"
+  },
+  {
+    "skill": "smartsheet",
+    "avg_salary": "71221.46"
+  },
+  {
+    "skill": "tidyverse",
+    "avg_salary": "70599.93"
+  },
+  {
+    "skill": "vb.net",
+    "avg_salary": "69600.00"
+  },
+  {
+    "skill": "wire",
+    "avg_salary": "68375.00"
+  },
+  {
+    "skill": "opencv",
+    "avg_salary": "67818.00"
+  },
+  {
+    "skill": "sass",
+    "avg_salary": "67698.50"
+  },
+  {
+    "skill": "colocation",
+    "avg_salary": "67500.00"
+  },
+  {
+    "skill": "trello",
+    "avg_salary": "65193.46"
+  },
+  {
+    "skill": "vue",
+    "avg_salary": "65000.00"
+  },
+  {
+    "skill": "macos",
+    "avg_salary": "57933.18"
+  },
+  {
+    "skill": "graphql",
+    "avg_salary": "57009.33"
+  },
+  {
+    "skill": "ruby on rails",
+    "avg_salary": "51059.00"
+  }
+]
