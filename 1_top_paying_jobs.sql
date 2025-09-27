@@ -1,75 +1,66 @@
 /*
-**Scenario**
-Question: What are the top-paying data analyst jobs?
-Identify the top 10 highest-paying Data Analyst roles that are available remotely.
-Focuses on job postings with specified salaries.
-Why? Aims to highlight the top-paying opportunities for Data Analysts, offering insights into employment options and location flexibility.
+===============================================
+ Query 1: Top-Paying Data Analyst Jobs
+===============================================
 
-**Query:**
-- Gets the following columns in the SELECT statement: job_id, job_title, job_location, job_schedule_type, salary_year_avg, job_posted_date.
-- Filters in the WHERE clause for:
-		'Data Analyst' jobs only (job_title = 'Data Analyst')
-		A salary exists (salary_year_avg IS NOT NULL)
-		Only includes remote jobs (job_location = 'Anywhere')
-- Orders the results by salary_year_avg in descending order (using ORDER BY).
-- Only include the top 10 jobs (LIMIT).
+Scenario:
+- Identify the top 10 highest-paying Data Analyst roles that are remote.
+- Only include postings with specified (non-null) salaries.
+- Bonus: Include company names for more context.
 
-**Reasoning**
--   Look at job_postings_fact table. 
-FROM job_postings_fact
-​
--   I want to know more about the jobs so let’s get relevant job info → Get job_id, job_title, job_location, job_schedule_type, salary_year_avg, job_posted_date columns in the SELECT statement. 
-    This lets me know about the job title, location, whether or not it’s full-time, and the salary.
-    This is all good to know when exploring jobs.
-
-SELECT	
-	job_id,
-	job_title,
-	job_location,
-	job_schedule_type,
-	salary_year_avg,
-	job_posted_date
-​
--   I need to look at specific types of jobs → Add conditions in the WHERE clause. 
-    I only want to look at data analyst jobs.
-
-WHERE 
-	job_title = 'Data Analyst'
-​
--   And look at jobs that are remote → Location is anywhere. 
-
-AND job_location = 'Anywhere'
-​
--   And I only want to look at jobs where there is a average yearly salary → salary_year_avg needs to not be null. 
-
-AND salary_year_avg IS NOT NULL
-​
--   Since I only want the top paying jobs → I’m going to order by the salary_year_avg in descending order (to get highest paying jobs first). 
-
-ORDER BY 
-	salary_year_avg DESC
-​
--   I only want to look at the top 10 highest paying jobs → Use LIMIT. 
-
-LIMIT 10
+Why?
+- Highlights the most lucrative opportunities in the Data Analyst job market.  
+- Provides insight into both salary potential and employer diversity.  
 */
 
---Top 10 highest paying data analyst roles that are either remote or local
-SELECT
-	job_id,
-	job_title,
-	job_location,
-	job_schedule_type,
-	salary_year_avg,
-	job_posted_date
--- name AS company_name
+SELECT	
+    job_id,
+    job_title,
+    job_location,
+    job_schedule_type,
+    salary_year_avg,
+    job_posted_date,
+    name AS company_name
 FROM
-	job_postings_fact
--- LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+    job_postings_fact
+LEFT JOIN company_dim 
+    ON job_postings_fact.company_id = company_dim.company_id
 WHERE
-	job_title = 'Data Analyst'
-	AND salary_year_avg IS NOT NULL
-	AND job_location = 'Anywhere'
+    job_title_short = 'Data Analyst'
+    AND job_location = 'Anywhere'
+    AND salary_year_avg IS NOT NULL
 ORDER BY
-	salary_year_avg DESC 
+    salary_year_avg DESC
 LIMIT 10;
+
+/*
+Key Insights from Results:
+- Wide Salary Range: Salaries span from $184,000 up to $650,000, showing strong earning potential.  
+- Diverse Employers: Companies like SmartAsset, Meta, and AT&T are among the top, representing different industries.  
+- Job Title Variety: Ranges from “Data Analyst” to senior/leadership roles such as “Director of Analytics,”  
+  highlighting career path diversity within data analytics.  
+
+Sample Results:
+================
+[
+  {
+    "job_id": 226942,
+    "job_title": "Data Analyst",
+    "salary_year_avg": 650000.0,
+    "company_name": "Mantys"
+  },
+  {
+    "job_id": 547382,
+    "job_title": "Director of Analytics",
+    "salary_year_avg": 336500.0,
+    "company_name": "Meta"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "salary_year_avg": 255829.5,
+    "company_name": "AT&T"
+  },
+  ...
+]
+*/
