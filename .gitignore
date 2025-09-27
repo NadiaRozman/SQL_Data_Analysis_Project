@@ -1,6 +1,0 @@
-# macOS system files
-.DS_Store
-
-# (Optional) Common extras to keep the repo tidy
-.vscode/
-*.log
