@@ -57,6 +57,9 @@ This project combined SQL analysis with modern development tools:
 - Employers included major firms like **SmartAsset, Meta, and AT&T**.  
 - Job titles varied (e.g., *Data Analyst, Senior Analyst, Director of Analytics*), showing a wide spectrum of responsibilities under the “Data Analyst” label.  
 
+![Top Paying Data Analyst Jobs](assets/1_top_paying_jobs.png)  
+*Figure 1: Salary distribution for the top 10 highest-paying remote Data Analyst roles in 2023.*
+
 ---
 
 ### 2️⃣ Skills for Top Paying Jobs
