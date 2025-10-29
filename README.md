@@ -168,3 +168,5 @@ For aspiring analysts, the roadmap is clear:
 3. **Learn Cloud & Big Data tools** – to stay ahead of industry trends.  
 
 Ultimately, the job market rewards **continuous learning and adaptability**. This project was not just about answering questions with SQL — it was about building a framework for **data-driven career planning**.  
+
+### ✨ Created by Nadia Rozman | September 2025
