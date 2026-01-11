@@ -169,4 +169,29 @@ For aspiring analysts, the roadmap is clear:
 
 Ultimately, the job market rewards **continuous learning and adaptability**. This project was not just about answering questions with SQL — it was about building a framework for **data-driven career planning**.  
 
+---
+
 ### ✨ Created by Nadia Rozman | September 2025
+
+**📂 Project Structure:**
+```
+SQL_Data_Analysis_Project/
+│
+├── assets/                                 
+│   └── 1_top_paying_jobs.png
+│
+├── sql_queries/                              
+│   ├── 1_top_paying_jobs.sql
+|   ├── 2_top_paying_jobs_skills.sql
+│   ├── 3_in-demand_skills.sql
+│   ├── 4_top_paying_skills.sql
+│   └── 5_most_optimal_skills.sql
+|
+└── README.md                          
+```
+
+**🔗 Connect with me:**
+- GitHub: [@NadiaRozman](https://github.com/NadiaRozman)
+- LinkedIn: [Nadia Rozman](https://www.linkedin.com/in/nadia-rozman-4b4887179/)
+
+**⭐ If you found this project helpful, please consider giving it a star!**
