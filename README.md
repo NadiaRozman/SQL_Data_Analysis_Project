@@ -1,3 +1,4 @@
+# SQL Analysis of the US Data Analyst Job Market
 
 ## 📊 Introduction
 This project dives into the **data analyst job market** using SQL as the primary tool of investigation.  
