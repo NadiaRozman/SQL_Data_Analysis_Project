@@ -44,7 +44,7 @@ This project combined SQL analysis with modern development tools:
 
 ## 🔎 The Analysis
 
-### 1️⃣ Top Paying Data Analyst Jobs
+### **Top Paying Data Analyst Jobs**
 **Question:** What are the 10 highest-paying remote data analyst roles?  
 
 **Approach:**  
@@ -62,7 +62,7 @@ This project combined SQL analysis with modern development tools:
 
 ---
 
-### 2️⃣ Skills for Top Paying Jobs
+### **Skills for Top Paying Jobs**
 **Question:** What skills are required for the highest-paying jobs?  
 
 **Approach:**  
@@ -77,7 +77,7 @@ This project combined SQL analysis with modern development tools:
 
 ---
 
-### 3️⃣ In-Demand Skills
+### **In-Demand Skills**
 **Question:** Which skills are requested most frequently overall?  
 
 **Approach:**  
@@ -99,7 +99,7 @@ This reveals that **SQL and Excel remain foundational**, while **Python and visu
 
 ---
 
-### 4️⃣ Skills Based on Salary
+### **Skills Based on Salary**
 **Question:** Which skills are associated with higher average salaries?  
 
 **Approach:**  
@@ -116,7 +116,7 @@ This indicates that specialized, technical skills in **data engineering and ML p
 
 ---
 
-### 5️⃣ Most Optimal Skills
+### **Most Optimal Skills**
 **Question:** Which skills combine high demand *and* high salaries?  
 
 **Approach:**  
@@ -143,10 +143,10 @@ These results show that the most **optimal skill set** balances:
 ## 📚 What I Learned
 Through this project, I gained both **technical SQL skills** and **practical analytics experience**:  
 
-- 🧩 **Complex Query Crafting** – mastered CTEs, multiple joins, and filtering conditions.  
-- 📊 **Aggregation & Summaries** – used `COUNT`, `AVG`, `ROUND` to derive insights from job postings.  
-- 💡 **Analytical Thinking** – converted vague business questions into SQL logic.  
-- 🔄 **Version Control** – used GitHub to manage iterations of queries and track my progress.  
+- **Complex Query Crafting** – mastered CTEs, multiple joins, and filtering conditions.  
+- **Aggregation & Summaries** – used `COUNT`, `AVG`, `ROUND` to derive insights from job postings.  
+- **Analytical Thinking** – converted vague business questions into SQL logic.  
+- **Version Control** – used GitHub to manage iterations of queries and track my progress.  
 
 ---
 
@@ -160,7 +160,7 @@ Here’s a summary of what the data revealed:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project confirmed the importance of SQL as a cornerstone skill while highlighting how additional tools (Python, Tableau, Cloud platforms) elevate both **demand** and **salary potential**.  
 
 For aspiring analysts, the roadmap is clear:  
